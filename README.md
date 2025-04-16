@@ -36,12 +36,6 @@
 
 ---
 
-
-![snake gif](https://raw.githubusercontent.com/KumarDhruv45/KumarDhruv45/output/github-contribution-grid-snake.svg)
-
-
----
-
 ### 🌟 Fun Fact:
 ⚡ _I keep saying ‘just wait and see’… honestly, even I’m waiting to see what happens!_
 
