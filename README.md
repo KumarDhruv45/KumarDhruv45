@@ -32,7 +32,7 @@
 - **🩺 Medical Device:** Hardware & Web Development.
 - **📹 Peer-to-Peer Video Calling Service:** Secure & Scalable Communication.
 
-📌 **Check out my work:** [GitHub Repos](#) *(Add your repository link here)*
+📌 **Check out my work:** [GitHub Repos](#)
 
 ---
 
