@@ -37,7 +37,8 @@
 ---
 
 
-![snake gif](https://github.com/KumarDhruv45/KumarDhruv45/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/KumarDhruv45/KumarDhruv45/output/github-contribution-grid-snake.svg)
+
 
 ---
 
